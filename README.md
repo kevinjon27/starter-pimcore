@@ -16,7 +16,7 @@ Go into the PHP container with
 * run `docker-compose exec php bash`
 
 #### Install pimcore (see https://pimcore.com/de/download)
-* run `COMPOSER_MEMORY_LIMIT=-1 composer create-project pimcore/demo-basic-twig pimcore`
+* run `COMPOSER_MEMORY_LIMIT=-1 composer create-project pimcore/skeleton pimcore`
 
 The pimcore project structure will be created in the directory pimcore
 
