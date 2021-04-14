@@ -67,4 +67,3 @@ The require part should look like this:
 ```
 
 Then run `composer update` and the `pimcore-install` script again. 
-# testingpimcore
